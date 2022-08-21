@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "949100021793",
+    "firebase_url": "https://bodhamrut-532df-default-rtdb.firebaseio.com",
+    "project_id": "bodhamrut-532df",
+    "storage_bucket": "bodhamrut-532df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949100021793:android:d716e59c9e58befc14bb60",
+        "android_client_info": {
+          "package_name": "com.astek.bodhamrut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949100021793-f2lmisoapds0qkks1gtcqbb8vsemhumb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl0oNbQYLuOj1wIBf5lezG1ElZdvrEeiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949100021793-f2lmisoapds0qkks1gtcqbb8vsemhumb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949100021793:android:1bcb67b9607fbaba14bb60",
+        "android_client_info": {
+          "package_name": "com.srdt.bodhamrut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949100021793-f2lmisoapds0qkks1gtcqbb8vsemhumb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl0oNbQYLuOj1wIBf5lezG1ElZdvrEeiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949100021793-f2lmisoapds0qkks1gtcqbb8vsemhumb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
